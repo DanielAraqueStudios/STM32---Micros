@@ -242,7 +242,10 @@ int main(void) {
         
         volts = (voltage * 3.3) / 4095; //convert to volts
         
-    
+        
+
+
+        
 
 
 
